@@ -1,0 +1,8 @@
+"Attribute setting change related with Search Index. Please run <a href=""%s"">Rebuild Search Index</a> process.","Nach dieser Attributänderung musst du den <a href=""%s"">Suchindex neuaufbauen</a>."
+"Don't see what you're looking for?","Nicht gefunden, wonach du gesucht hast?"
+"Enter ""0"" to enable layered navigation for any number of results.","Gib ""0"" ein, um die Filternavigation bei jeder Anzahl von Ergebnissen anzuzeigen."
+"Maximum Search query length is %s. Your query was cut.","Maximallänge der Suchanfrage ist %s. Deine Suchanfrage wurde gekürzt."
+"Maximum words count is %1$s. In your search query was cut next part: %2$s.","Maximale Wortanzahl ist %1$s. Deine Suchanfrage wurde auf %2$s gekürzt."
+"Modify your search","Ändere bitte deine Suchanfrage"
+"Please specify at least one search term.","Bitte verfeinere deine Suchanfrage."
+"Your search returns no results.","Deine Suchanfrage lieferte keine Ergebnisse."
