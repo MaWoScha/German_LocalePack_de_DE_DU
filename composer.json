@@ -1,0 +1,19 @@
+{
+    "name": "mawoscha/german-localepack_de_de_du",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description":"German (Informal) Community Translation (DU-Version)",
+    "authors":[
+        {
+            "name":"MaWoScha",
+            "email": "manfredwormschaefer@gmail.com"
+        },
+        {
+            "name":"kkrieger",
+            "email": "kk@kkrieger.de"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
